@@ -1,4 +1,4 @@
 https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/DJL%20Newsletter%20Template.dotx?raw=true|Newsletter Template.dotx
 https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Standard.dotx?raw=true|Standard.dotx
 https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Generic%20Cover%20Page%20Template%20Latest.dotx?raw=true|Standard Cover.dotx
-https://https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Meeting%20Management.dotx|Meeting Management.dotx
+https://https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Meeting%20Management.dotx?raw=true|Meeting Management.dotx
