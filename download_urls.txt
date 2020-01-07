@@ -3,3 +3,4 @@ https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Standard
 https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Generic%20Cover%20Page%20Template%20Latest.dotx?raw=true|Standard Cover.dotx
 https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Meeting%20Management.dotx?raw=true|Meeting Management.dotx
 https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Davy%20Jones%20Locker.thmx?raw=true|Davy Jones Locker.thmx
+https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Standard.potx?raw=true|Standard.potx
