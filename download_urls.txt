@@ -4,3 +4,4 @@ https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Generic%
 https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Meeting%20Management.dotx?raw=true|Meeting Management.dotx
 https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Davy%20Jones%20Locker.thmx?raw=true|Davy Jones Locker.thmx
 https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Standard.potx?raw=true|Standard.potx
+https://github.com/TheWeirdSquid/AutoTemplateUpdaterHosting/blob/master/Weekly%20Status%20Report.dotx?raw=true|Weekly Status Report.dotx
